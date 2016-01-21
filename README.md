@@ -1,3 +1,5 @@
+This is a grouping and analyzation of cereal using machine learning classification.
+
 # Cluster cereals by nutritional values
 
 ## Description
