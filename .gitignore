@@ -3,7 +3,8 @@
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
-
+.direnv/
+.envrc/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
